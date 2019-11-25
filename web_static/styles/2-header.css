@@ -1,0 +1,7 @@
+/* internal Header style */
+header {
+    position: absolute;
+    background:#FF0000;
+    height: 70px;
+    width:100%;
+}
